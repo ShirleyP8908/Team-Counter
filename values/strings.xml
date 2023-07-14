@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TeamCounter</string>
+    <string name="miami_heat_team">Miami Heat Team</string>
+    <string name="denver_nuggets_team">Denver Nuggets Team</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="turn_on_or_off">turn on or off</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string-array name="choose_sport">
+        <item>Basketball</item>
+        <item>Baseball</item>
+        <item>Soccer</item>
+        <item>Hockey</item>
+        <item>Boxing</item>
+    </string-array>
+    
+    <string-array name="winning_activity">
+        <item>Medal</item>
+        <item>Cup</item>
+        <item>Thumbs Up</item>
+    </string-array>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="Sports_Settings">Sports Settings</string>
+    <string name="Save_Info">Save Values</string>
+</resources>
